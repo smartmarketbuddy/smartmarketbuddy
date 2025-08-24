@@ -32,7 +32,7 @@ Welcome to SmartMarketBuddy - Your Intelligent Trading Assistant! Setting up Sma
 ### Step 2: Install SmartMarketBuddy
 
 1. Download the Installer:
-   - Download the SmartMarketBuddy installer from our [releases page](https://github.com/praisino/SmartMarketBuddy/releases/latest)
+   - Download the SmartMarketBuddy installer from our [releases page](https://github.com/smartmarketbuddy/smartmarketbuddy/releases)
    - Download "Installer.zip"
    - Extract the downloaded zip file to any location on your computer
 
