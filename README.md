@@ -42,6 +42,7 @@ Welcome to SmartMarketBuddy - Your Intelligent Trading Assistant! Setting up Sma
      * Set up the required environment
      * Install necessary components
      * Create desktop and start menu shortcuts
+   <video src=images/installer.mp4/>
 
 ### Step 3: Start Using SmartMarketBuddy
 
