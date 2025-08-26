@@ -1,6 +1,6 @@
 # SmartMarketBuddy
 
-![SmartMarketBuddy Logo]([images/SMB_logo_white.jpg))
+![SmartMarketBuddy Logo](images/SMB_logo_transparent.png)
 
 
 
