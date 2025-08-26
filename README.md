@@ -1,7 +1,5 @@
-# SmartMarketBuddy
-
 ![SmartMarketBuddy Logo](images/SMB_logo_transparent.png)
-
+# SmartMarketBuddy
 
 
 Welcome to SmartMarketBuddy - Your Intelligent Trading Assistant! Setting up SmartMarketBuddy is quick and easy, typically taking between 5 - 10 minutes. Whether you're tech-savvy or new to computers, our streamlined installation process ensures you'll be up and running in no time.
