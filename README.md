@@ -1,6 +1,6 @@
 # SmartMarketBuddy
 
-![SmartMarketBuddy Logo](images/SMB_logo_white.ico?raw=true)
+![SmartMarketBuddy Logo]([images/SMB_logo_white.ico?raw=true](https://github.com/smartmarketbuddy/smartmarketbuddy/blob/7d4dcbcb274c19e9369551815d50f3328c1b114e/images/SMB_logo_transparent.png))
 
 
 
