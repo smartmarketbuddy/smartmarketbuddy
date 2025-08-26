@@ -16,17 +16,17 @@ Welcome to SmartMarketBuddy - Your Intelligent Trading Assistant! Setting up Sma
 
 2. Connect to Your Broker:
    - Open MT5
-   - Click "File" → "Login to Trade Account"
-   - Enter your broker credentials
-   - If you don't have a broker account yet, you can open one through MT5's built-in broker directory
+   - Click "File" → "Login to Trade Account" or "Open an Account" if your broker server isn't listed.
+   - Enter your broker credentials and ensure your account is connected.
 
 3. Enable Automated Trading:
-   - In MT5, go to "Tools" → "Options"
+   - Easier Method 1: Enable Algo Trading by clicking the option on the Standard tool box
+     ![Enabling Algo Trading GIF](images/algo_trading.gif)
+   - Method 2: In MT5, go to "Tools" → "Options"
    - Select "Expert Advisors" tab
    - Enable "Allow automated trading"
-   - Enable "Allow WebRequest for listed URL"
-   - Add "localhost" to the WebRequest URLs list
    - Click "OK" to save changes
+     ![Enabling Algo Trading GIF_2](images/algo_trading_method_2.gif)
 
 ### Step 2: Install SmartMarketBuddy
 
